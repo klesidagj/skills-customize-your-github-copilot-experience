@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "python-functions-and-modules",
+      "title": "Python Functions and Modules",
+      "description": "Learn reusable functions, split code across modules, and import helpers into a small Python program.",
+      "path": "assignments/python-functions-and-modules",
+      "dueDate": "2026-06-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Helper Module",
+          "file": "helpers.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
